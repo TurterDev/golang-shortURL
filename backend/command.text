@@ -1,0 +1,15 @@
+/*
+- ประกาศ gomod
+go mod init shorturl 
+- ติดตั้ง git
+go get github.com/gin-gonic/gin
+- ติดตั้ง libary ที่ import แต่ตั้งไม่ได้ติดตั้ง
+go mod tidy
+
+ติดตั้ง import godotenv เพื่อจัดการ env
+import "github.com/joho/godotenv"
+go get github.com/joho/godotenv 
+
+
+
+*/
